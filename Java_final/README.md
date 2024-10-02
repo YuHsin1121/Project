@@ -1,6 +1,6 @@
 Java Final Project
 
-Java Project.pdf -> 課程成果與開發過程說明
+Java Project.pdf -> 課程成果與開發過程說明\n
 final_version.java -> 最後版本
   *圖片、音樂、和譜面(txt檔)如無法成功執行，需要修改檔案路徑
 music_image_notes.zip -> 圖片、音樂及譜面檔
